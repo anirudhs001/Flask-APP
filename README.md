@@ -1,2 +1,2 @@
 # README 
-code for (this)(https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) flask tutorial.
+code for [this](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) flask tutorial.
